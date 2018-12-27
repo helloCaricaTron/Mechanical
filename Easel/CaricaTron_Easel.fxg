@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="3456" viewWidth="3456" ai:appVersion="16.0.0.682" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="normal" d:layerType="page" d:pageHeight="3456" d:pageWidth="3456" d:type="layer" d:userLabel="Artboard 1">
+    <Group d:type="layer" d:userLabel="Layer 1">
+      <Rect x="720" y="1533.6" width="720" height="950.4" ai:seqID="1">
+        <fill>
+          <SolidColor color="#FFFFFF"/>
+        </fill>
+        <stroke>
+          <SolidColorStroke caps="none" joints="miter" miterLimit="10"/>
+        </stroke>
+      </Rect>
+      <Rect x="1587.43" y="720.001" width="1728" height="2592" ai:seqID="2">
+        <fill>
+          <SolidColor color="#FFFFFF"/>
+        </fill>
+        <stroke>
+          <SolidColorStroke caps="none" joints="miter" miterLimit="10"/>
+        </stroke>
+      </Rect>
+      <Group x="447.293" y="1469.53" ai:seqID="3">
+        <Ellipse x="0.5" y="0.499756" width="18.7202" height="18.7202" ai:seqID="4">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+          <stroke>
+            <SolidColorStroke caps="none" joints="miter" miterLimit="10"/>
+          </stroke>
+        </Ellipse>
+        <Ellipse x="227.301" y="0.499756" width="18.7202" height="18.7202" ai:seqID="5">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+          <stroke>
+            <SolidColorStroke caps="none" joints="miter" miterLimit="10"/>
+          </stroke>
+        </Ellipse>
+        <Ellipse x="0.5" y="1111.46" width="18.7202" height="18.7202" ai:seqID="6">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+          <stroke>
+            <SolidColorStroke caps="none" joints="miter" miterLimit="10"/>
+          </stroke>
+        </Ellipse>
+        <Ellipse x="227.301" y="1111.46" width="18.7202" height="18.7202" ai:seqID="7">
+          <fill>
+            <SolidColor color="#FFFFFF"/>
+          </fill>
+          <stroke>
+            <SolidColorStroke caps="none" joints="miter" miterLimit="10"/>
+          </stroke>
+        </Ellipse>
+      </Group>
+      <Rect x="2073.43" y="396" width="756" height="216" ai:seqID="8">
+        <fill>
+          <SolidColor color="#FFFFFF"/>
+        </fill>
+        <stroke>
+          <SolidColorStroke caps="none" joints="miter" miterLimit="10"/>
+        </stroke>
+      </Rect>
+    </Group>
+  </Group>
+  <Private/>
+</Graphic>
